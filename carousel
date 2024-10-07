@@ -1,0 +1,36 @@
+<section id="test" class="parts">
+  <div class="t-container">
+    <h3>Latest Testimonials</h3>
+    <h2 style="margin-top: -20px">OUR CLIENTS</h2>
+    <div class="testimonials">
+      <div class="carousel-inner">
+        <div class="carousel-item">
+          <div class="fi">
+            <img
+              class="d-block w-25 m-auto"
+              src="https://bhumitrohilla.github.io/Vegetable-Web-Page/Image/double-quotes.png"
+              alt=""
+            />
+          </div>
+          <p>
+            Praesent sapien massa, convallis a pellentesque nec, egestas non
+            nisi. Nulla quis lorem ut libero malesuada feugiat. Curabitur non
+            nulla sit amet nisl tempus convallis quis ac lectus.
+          </p>
+          <div class="name-pic">
+            <div class="Ti">
+              <img
+                class="rounded-circle"
+                src="https://www.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg"
+              />
+            </div>
+            <div class="name">
+              <p>Brandan</p>
+              <p>Client</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
